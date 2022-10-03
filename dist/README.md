@@ -14,17 +14,15 @@
   ## Installation
   Download the code, unzip the file, ready to use
   ## Usage
-  Run "node index.js", Answer prompts, check "dist" folder.
-
-  (Video tutorial here https://www.youtube.com/watch?v=Xm6XK0cDZAc)
+  Run "node index.js", Answer prompts, check "dist" folder
   
   ## Contributing
-  I am not accepting contributions to this project.
+  I am not accepting contributions to this project
   ## Tests
   N/A
   ## Questions
   Have questions about this project?  
-  GitHub: https://github.com/https://github.com/JosephLanese  
+  GitHub: https://github.com/github.com/JosephLanese  
   Email: joelanese8@gmail.com
   ## Credits
   Joseph Lanese
